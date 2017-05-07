@@ -1,0 +1,16 @@
+riyazi operatorlar asaqidakilardi:+ - / * va %=yani mut
+% bu operator bolma va vurmada istifada olunur
+muqayisa operatorlari butun proqram dillarinda eynidir 
+muqayisa operatorlari:
+== barabardirsa
+!= barabar deilsa
+< > >= <=
+
+15>12 true 12>13 false 12==12 true 12==13 false 
+24!=12 true 18!=18
+mantiqi operatorlar
+|| or
+! not
+&& and
+
+t
